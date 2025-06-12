@@ -17,7 +17,6 @@ A collection of Python programs demonstrating fundamental concepts in **Deep Lea
 
 Make sure you have Python installed. In the terminal:
 
-```bash
 python dltex1.py
 python dltex2.py
 python dltex3.py
