@@ -12,24 +12,5 @@ A collection of Python programs demonstrating fundamental concepts in **Deep Lea
 3. **dltex3.py** – Neural Network with One Hidden Layer  
    A simple feedforward neural network for learning and prediction.
 
-## 🚀 How to Run
-
-
-Make sure you have Python installed. In the terminal:
-
-python dltex1.py
-python dltex2.py
-python dltex3.py
-
-Requirements:
-Python 3.x
-numpy (if used for matrix operations in your code)
-
-Install with:
-bash
-
-pip install numpy
-
-
-👩‍💻 Author
-Abi Ramesh
+4. **dltex4.py** – CNN Multiclass Classifier 
+   To build and evaluate a CNN model for multiclass classification.
