@@ -12,5 +12,5 @@ A collection of Python programs demonstrating fundamental concepts in **Deep Lea
 3. **dltex3.py** – Neural Network with One Hidden Layer  
    A simple feedforward neural network for learning and prediction.
 
-4. **dltex4.py** – CNN Multiclass Classifier 
+4. **dltex4.py** – CNN Multiclass Classifier
    To build and evaluate a CNN model for multiclass classification.
